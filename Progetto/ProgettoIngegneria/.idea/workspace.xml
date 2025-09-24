@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="794332c5-e36e-4fd0-b069-67671e2e8628" name="Changes" comment="Commit riparatore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/gui/CustomMapLayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProgettoIngegneria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgettoIngegneria.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="794332c5-e36e-4fd0-b069-67671e2e8628" name="Changes" comment="Merge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/gui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/gui/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,21 +90,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.ProgettoIngegneria [assemble].executor": "Run",
-    "Gradle.ProgettoIngegneria [buildDependents].executor": "Run",
-    "Gradle.ProgettoIngegneria [build].executor": "Run",
-    "Gradle.ProgettoIngegneria [dependencies].executor": "Run",
-    "Gradle.ProgettoIngegneria [run].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lorenzo",
-    "last_opened_file_path": "D:/IdeaProjects/IngegneriaDelSoftwareProgetto/Progetto/ProgettoIngegneria",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.ProgettoIngegneria [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ProgettoIngegneria [buildDependents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ProgettoIngegneria [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ProgettoIngegneria [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ProgettoIngegneria [run].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lorenzo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/IngegneriaDelSoftwareProgetto/Progetto/ProgettoIngegneria&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.ProgettoIngegneria [run]">
     <configuration name="ProgettoIngegneria [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -247,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758745726916</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aggiunta dipendenze per OpenStreetMap e JavaFx">
+      <option name="closed" value="true" />
+      <created>1758750193387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758750193387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +266,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit riparatore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit riparatore" />
+    <MESSAGE value="Aggiunta dipendenze per OpenStreetMap e JavaFx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta dipendenze per OpenStreetMap e JavaFx" />
   </component>
 </project>
